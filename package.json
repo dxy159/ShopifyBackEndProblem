@@ -1,0 +1,19 @@
+{
+  "name": "shopify_challenge",
+  "version": "1.0.0",
+  "description": "shopify challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dxy159/ShopifyBackEndProblem.git"
+  },
+  "author": "Richard Ni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dxy159/ShopifyBackEndProblem/issues"
+  },
+  "homepage": "https://github.com/dxy159/ShopifyBackEndProblem#readme"
+}
