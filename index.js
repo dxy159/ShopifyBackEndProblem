@@ -101,7 +101,7 @@ function processOrder(page, callback) {
 			};
 
 			// Convert to JSON and callback
-			message = JSON.stringify(message);
+			JSON.stringify(message);
 			callback(message);
 
 		});
@@ -113,7 +113,7 @@ function processOrder(page, callback) {
 }
 
 // Sample test - simple console.log result
-processOrder(0, function(data) {
+processOrder(1, function(data) {
 	console.log(data);
 });
 
